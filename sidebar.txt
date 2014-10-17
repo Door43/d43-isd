@@ -1,0 +1,19 @@
+
+----
+~~NOCACHE~~
+**Door43**
+
+  * [[isd:home|Door43 (isd)]]
+  * [[en:license|License]]
+
+**Downloads**
+
+All content for this namespace is available in the [[https://github.com/Door43/d43-isd|d43-isd repository]].  To download it as a zip file, click [[https://github.com/Door43/d43-isd/archive/master.zip|d43-isd.zip]]
+
+**Recent Changes**
+{{changes>ns = isd}}
+
+**Language Information**
+
+[[http://www.ethnologue.com/language/isd|Ethnologue data]]
+
